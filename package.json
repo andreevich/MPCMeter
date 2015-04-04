@@ -1,0 +1,13 @@
+﻿{
+  "repository" :{ 
+	"type" : "git",
+	"url" : "https://github.com/andreevich/MPCMeter.git"
+  },
+  "name": "MPCMeter",
+  "description" : "arduino+nodejs",
+  "version": "1.0.0",
+  "main" : "server.js",
+  "dependencies": {
+    "serialport": "latest"
+  }
+}

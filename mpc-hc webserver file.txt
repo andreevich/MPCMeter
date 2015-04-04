@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="en">
+    <head>
+        <meta charset="utf-8">
+        <title>MPC-HC WebServer - Variables</title>
+        <link rel="stylesheet" href="default.css">
+        <link rel="icon" href="favicon.ico">
+    </head>
+    <body>
+        <!--[if lt IE 8]>
+            <div class="browser-warning"><strong>Warning!</strong> You are using an <strong>outdated</strong> browser. Please <a href="http://browsehappy.com/">upgrade your browser</a> to improve your experience.</div>
+        <![endif]-->
+        <p id="filepatharg">D:%5cFILMS%5cIts.Always.Sunny.in.Philadelphia.S10E10.720p.WEB.rus.LostFilm.TV.mp4</p>
+        <p id="filepath">D:\FILMS\Its.Always.Sunny.in.Philadelphia.S10E10.720p.WEB.rus.LostFilm.TV.mp4</p>
+        <p id="filedirarg">D:%5cFILMS</p>
+        <p id="filedir">D:\FILMS</p>
+        <p id="state">1</p>
+        <p id="statestring">Пауза</p>
+        <p id="position">1069384</p>
+        <p id="positionstring">00:17:49</p>
+        <p id="duration">1255210</p>
+        <p id="durationstring">00:20:55</p>
+        <p id="volumelevel">75</p>
+        <p id="muted">0</p>
+        <p id="playbackrate">1</p>
+        <p id="reloadtime">0</p>
+
+    </body>
+</html>
